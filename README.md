@@ -1,5 +1,13 @@
 # 💫 About Me:
-I’m currently working on<br>Scaling and refining BugRank, a Docker-based sandboxed code execution platform deployed on a production VPS environment.<br><br>I’m looking to collaborate on<br>Backend-intensive systems, API architecture, and infrastructure-focused projects that require ownership from design to deployment.<br><br>I’m looking for help with<br>Advanced system design, distributed architecture patterns, and performance optimization at scale.<br><br>I’m currently learning<br>Low-level system behavior, backend scalability principles, and production-grade DevOps practices.<br><br>Ask me about<br>Backend engineering, Docker-based sandboxing, PostgreSQL optimization, JWT authentication, and VPS deployment.<br><br>Fun fact<br>I prefer building and deploying real systems to production rather than stopping at local development.
+I’m building and scaling BugRank, a Docker-based sandboxed code execution platform deployed on a production VPS.
+
+I collaborate on backend-heavy systems, API architecture, and infrastructure-focused projects.
+
+Currently learning advanced system design, scalability, and production DevOps.
+
+Ask me about backend engineering, Docker, PostgreSQL optimization, JWT authentication, and VPS deployment.
+
+Fun fact: I prefer shipping real systems to production over keeping projects local.
 
 
 # 💻 Tech Stack:
