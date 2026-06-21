@@ -1,5 +1,6 @@
 # 💫 About Me:
-nothing
+[![portfolio](https://subhr.in)]
+[![Shixa](https://shixa.subhr.in)]
 
 
 ## 🌐 Socials:
