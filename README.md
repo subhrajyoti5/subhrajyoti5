@@ -6,19 +6,6 @@
 
 </div>
 
-<br/>
-
-```diff
-- another candidate who "knows full-stack"
-+ an engineer who ships full-stack: backend, frontend, mobile, and the cloud under it
-- reads about system design
-+ designs and deploys the systems
-- side projects that stayed local
-+ Shixa — live at shixa.subhr.in
-```
-
-<br/>
-
 ## Stack
 
 **Languages** — C · C++ · Java · Dart · JavaScript
