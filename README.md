@@ -15,7 +15,7 @@
 **Cloud** — AWS · Google Cloud · Cloudflare · Vercel · Nginx
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,dart,java,js,react,nextjs,flutter,nodejs,express,fastapi,postgres,mysql,firebase,supabase,aws,gcp,cloudflare,vercel,nginx,git,github,figma&perline=12" />
+<img src="https://skillicons.dev/icons?i=c,cpp,dart,flutter,nodejs,postgres,aws,gcp,cloudflare,vercel,nginx,git,github,figma&perline=12" />
 </div>
 
 <br/>
@@ -30,10 +30,6 @@
 <br/>
 
 <div align="center">
-
-```
-git commit -m "open to opportunities" && git push origin career
-```
 
 **[Let's talk →](https://www.linkedin.com/in/subhrajyoti-sahoo-b047a227a/)**
 
