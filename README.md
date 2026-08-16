@@ -8,10 +8,10 @@
 
 ## Stack
 
-**Languages** — C · C++ · Java · Dart · JavaScript
-**Frontend** — React · Next.js · Flutter
-**Backend** — Node.js · Express · FastAPI · JWT
-**Data** — PostgreSQL · MySQL · SQLite · Firebase · Supabase
+**Languages** — C · C++ · Dart 
+**Frontend** — Flutter
+**Backend** — Node.js 
+**Data** — PostgreSQL 
 **Cloud** — AWS · Google Cloud · Cloudflare · Vercel · Nginx
 
 <div align="center">
