@@ -46,9 +46,11 @@
 
 ## 📊 Activity
 
+## 📈 GitHub Activity
+
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=subhrajyoti5"
+    src="https://streak-stats.demolab.com/?user=subhrajyoti5&theme=radical&hide_border=true"
     alt="GitHub Streak Stats"
   />
 </p>
