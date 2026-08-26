@@ -9,7 +9,7 @@
   <a href="https://subhr.in">
     <img alt="Website" src="https://img.shields.io/badge/Website-subhr.in-000000?style=for-the-badge" />
   </a>
-  <a href="https://shixa.subhr.in">
+  <a href="https://bugrank.in">
     <img alt="Shixa" src="https://img.shields.io/badge/Live%20Product-Shixa-4591df?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/subhrajyoti-sahoo-b047a227a/">
