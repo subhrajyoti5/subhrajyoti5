@@ -47,8 +47,10 @@
 ## 📊 Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=subhrajyoti5&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhrajyoti5&layout=compact&theme=default&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com/?user=subhrajyoti5"
+    alt="GitHub Streak Stats"
+  />
 </p>
 
 ---
