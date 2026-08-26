@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,dart,flutter,nodejs,postgres&perline=6" width="260" alt="Subhrajyoti Sahoo" />
-</p>
 
 <h1 align="center">Subhrajyoti Sahoo</h1>
 <p align="center">CS undergrad building production software, not tutorials.</p>
@@ -10,7 +7,7 @@
     <img alt="Website" src="https://img.shields.io/badge/Website-subhr.in-000000?style=for-the-badge" />
   </a>
   <a href="https://bugrank.in">
-    <img alt="Bugrank" src="https://img.shields.io/badge/Live%20Product-Shixa-4591df?style=for-the-badge" />
+    <img alt="Bugrank" src="https://img.shields.io/badge/Live%20Product-bugrank-4591df?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/subhrajyoti-sahoo-b047a227a/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
