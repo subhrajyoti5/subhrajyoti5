@@ -1,21 +1,101 @@
-# 💫 About Me:
-CS undergrad (KIIT, Bhubaneswar) building production software, not tutorials.<br><br>Shipped Shixa — a coaching-management SaaS live with real paying customers.<br>Building BugRank (sandboxed debugging platform) and CZP (a C++17 compression tool with custom LZ77 + Huffman coding).<br><br>Interested in backend engineering, systems, and eventually Designing.
 
+<h1 align="center">Hi 👋, I'm Subhrajyoti Sahoo</h1>
+<h3 align="center">A CS undergrad building production software, not tutorials</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhrajyoti-sahoo-b047a227a) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@jsubhra502) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@subhra8640) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhrajyotis614@gmail.com) 
+<p align="center">
+I'm studying Computer Science &amp; Engineering (Data Science) at KIIT, Bhubaneswar, and I spend most of my time shipping real, working software rather than following tutorials. I've built and shipped <b>Shixa</b> — a coaching-management SaaS live with real paying customers — and I'm currently building <b>BugRank</b>, a sandboxed debugging platform, and <b>CZP</b>, a C++17 compression tool with custom LZ77 + Huffman coding. I'm into backend engineering, systems, and increasingly, design 🎨
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=subhrajyoti5&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=subhrajyoti5&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=subhrajyoti5&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=subhrajyoti5&label=Profile%20views&color=0e75b6&style=flat" alt="subhrajyoti5" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=subhrajyoti5&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
----
-[![](https://komarev.com/ghpvc/?username=subhrajyoti5&icon=0&color=0)](https://visitcount.itsvg.in)
+- 🔭 I'm currently building **[Shixa](https://shixa.subhr.in)**, **[BugRank](bugrank.in)**, and **CZP**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🌱 I'm currently sharpening **backend engineering, system design &amp; DSA**
+
+- 👨‍💻 All of my work is documented at [subhr.in](https://subhr.in)
+
+- 💬 Ask me about **C, C++, Node.js, PostgreSQL, and Flutter**
+
+- 📫 How to reach me **subhrajyotis614@gmail.com**
+
+- ⚡ Fun fact: **I ship in production before I "finish learning" — that's the point**
+
+<br>
+
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/subhrajyoti-sahoo-b047a227a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhrajyoti-sahoo" width="40" /></a>
+<a href="https://medium.com/@jsubhra502" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" alt="jsubhra502" width="40" style="background-color:white;border-radius:6px;padding:6px;" /></a>
+<a href="https://x.com/subhra8640" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="subhra8640" width="40" style="background-color:white;border-radius:6px;padding:6px;" /></a>
+<a href="mailto:subhrajyotis614@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" width="40" /></a>
+</p>
+<br>
+
+<h3 align="left">Languages and Tools:</h3>
+
+- Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,dart,java,javascript" />
+  </a>
+</p>
+
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  </a>
+</p>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,react,nextjs" />
+  </a>
+</p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres" />
+  </a>
+</p>
+
+- Cloud &amp; Infra
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel,nginx,docker" />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,figma,illustrator" />
+  </a>
+</p>
+
+<br/>
+
+<h3 align="left">📊 GitHub Stats:</h3>
+<p align="center">
+<img src="https://github-readme-stats.shion.dev/api?username=subhrajyoti5&theme=default&hide_border=false&include_all_commits=false&count_private=true" /><br/>
+<img src="https://streak-stats.demolab.com/?user=subhrajyoti5&theme=default&hide_border=false" /><br/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=subhrajyoti5&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+</p>
+
+<h3 align="left">🔝 Top Contributed Repo</h3>
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=subhrajyoti5&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+<br>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I like talking shop</b> — if you're building something too, say <b>hi, happy to compare notes!</b> :)</em>
+
+<br>
+<p align="right"> Created with 🧡 by <a href="https://subhr.in">Subhrajyoti Sahoo</a></p>
