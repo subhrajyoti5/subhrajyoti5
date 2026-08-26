@@ -10,7 +10,7 @@
     <img alt="Website" src="https://img.shields.io/badge/Website-subhr.in-000000?style=for-the-badge" />
   </a>
   <a href="https://bugrank.in">
-    <img alt="Shixa" src="https://img.shields.io/badge/Live%20Product-Shixa-4591df?style=for-the-badge" />
+    <img alt="Bugrank" src="https://img.shields.io/badge/Live%20Product-Shixa-4591df?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/subhrajyoti-sahoo-b047a227a/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -36,7 +36,7 @@
 **[Shixa](https://shixa.subhr.in)** — Coaching-management SaaS, live in production with real paying customers.
 `AWS EC2 · PostgreSQL · React · Flutter · Cloudflare R2`
 
-**BugRank** — Debugging platform with Docker-sandboxed code execution.
+**[BugRank](https://bugrank.in)** — Debugging platform with Docker-sandboxed code execution.
 `PostgreSQL · JWT · Nginx`
 
 **CZP** — C++17 compression tool built from scratch: 32KB sliding-window LZ77 + canonical Huffman coding, custom `.czp` format with CRC32, 3–44% compression ratios, 64 automated tests.
