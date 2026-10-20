@@ -1,101 +1,83 @@
-
-<h1 align="center">Hi 👋, I'm Subhrajyoti Sahoo</h1>
-<h3 align="center">A CS undergrad building production software, not tutorials</h3>
-
-<p align="center">
-I'm studying Computer Science &amp; Engineering (Data Science) at KIIT, Bhubaneswar, and I spend most of my time shipping real, working software rather than following tutorials. I've built and shipped <b>Shixa</b> — a coaching-management SaaS live with real paying customers — and I'm currently building <b>BugRank</b>, a sandboxed debugging platform, and <b>CZP</b>, a C++17 compression tool with custom LZ77 + Huffman coding. I'm into backend engineering, systems, and increasingly, design 🎨
-</p>
+<h1 align="center">Subhrajyoti Sahoo</h1>
+<p align="center"><b>Backend & systems engineer who ships to production.</b><br/>
+CS undergrad (Data Science) at KIIT · C / C++ · Node.js · PostgreSQL · Flutter</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subhrajyoti5&label=Profile%20views&color=0e75b6&style=flat" alt="subhrajyoti5" />
+  <a href="https://subhr.in"><img src="https://img.shields.io/badge/Portfolio-subhr.in-0e75b6?style=flat-square" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/subhrajyoti-sahoo-b047a227a"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/subhra8640"><img src="https://img.shields.io/badge/X-@subhra8640-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://medium.com/@jsubhra502"><img src="https://img.shields.io/badge/Medium-writing-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="mailto:subhrajyotis614@gmail.com"><img src="https://img.shields.io/badge/Email-reach%20out-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+---
 
-- 🔭 I'm currently building **[Shixa](https://shixa.subhr.in)**, **[BugRank](bugrank.in)**, and **CZP**
+## About
 
-- 🌱 I'm currently sharpening **backend engineering, system design &amp; DSA**
+I build real software and put it in front of real users. **Shixa**, a multi-tenant coaching-management SaaS, is live in production with paying customers. I'm into backend engineering, systems programming, and product design, and I document what I learn at [subhr.in](https://subhr.in).
 
-- 👨‍💻 All of my work is documented at [subhr.in](https://subhr.in)
+- 🔭 **Building now:** Shixa, Murmur, and the [subhr.in](https://subhr.in) portfolio
+- 🌱 **Sharpening:** backend engineering, system design, DSA
+- 🎯 **Open to:** 2027 Software Engineering / Backend internships and production collaborations
+- 💬 **Ask me about:** C, C++, Node.js, PostgreSQL, Docker sandboxing, Flutter
 
-- 💬 Ask me about **C, C++, Node.js, PostgreSQL, and Flutter**
+---
 
-- 📫 How to reach me **subhrajyotis614@gmail.com**
+## Featured Projects
 
-- ⚡ Fun fact: **I ship in production before I "finish learning" — that's the point**
+| Project | What it is | Stack |
+|---|---|---|
+| **[Shixa](https://play.google.com/store/apps/details?id=com.shixa.coaching&hl=en_IN)** | Multi-tenant SaaS for coaching institutes. 3-tier PostgreSQL isolation, RBAC with feature flags, per-institute asset isolation on R2. Live in production. | React, Node.js, PostgreSQL, AWS EC2, Cloudflare R2 |
+| **[BugRank](https://www.bugrank.in)** | Competitive debugging platform. Untrusted code runs in Docker as an unprivileged user, with a 5s CPU limit and 256 MB memory cap. Gemini gives hints without leaking solutions. | React, TypeScript, Express, PostgreSQL, Docker, Nginx |
+| **[Posta](https://posta.subhr.in)** | Private `@subhr.in` mail system. Pure C server with HTTP API and raw SMTP ingestion, RS256 JWT verification in C, async retry queue. | C, Next.js, PostgreSQL, Clerk, Nginx |
+| **[CZP](https://github.com/subhrajyoti5/zip)** | DEFLATE-style compressor and archiver from scratch. Custom bitstream, LZ77 (32 KB window), canonical Huffman (15-bit max), `.czp` format with CRC32. | C++17 |
+| **Murmur** | Voice-first Android app: hold, speak, release. Sub-200ms capture, private R2 audio with signed URLs, semantic search over memos. | Flutter, Riverpod, Node.js, Prisma, PostgreSQL, OpenAI |
+| **[Optima](https://github.com/subhrajyoti5)** | Offline-first task engine that ranks tasks by urgency and energy level. Hive locally, syncs to Supabase on reconnect. | Flutter, Dart, Hive, Supabase |
+| **[SpeakRandom](https://speakrandom.subhr.in)** | One-minute impromptu speaking trainer. Local-only progress, no accounts. | Next.js, TypeScript, Tailwind |
+| **[ACWGS](https://acwgs.subhr.in)** | Governance simulator modeling voting weight by verified contribution. | React, TypeScript |
 
-<br>
+---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/subhrajyoti-sahoo-b047a227a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhrajyoti-sahoo" width="40" /></a>
-<a href="https://medium.com/@jsubhra502" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" alt="jsubhra502" width="40" style="background-color:white;border-radius:6px;padding:6px;" /></a>
-<a href="https://x.com/subhra8640" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="subhra8640" width="40" style="background-color:white;border-radius:6px;padding:6px;" /></a>
-<a href="mailto:subhrajyotis614@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" width="40" /></a>
-</p>
-<br>
+## Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,ts,js,dart,java" />
 
-- Languages
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,dart,java,javascript" />
-  </a>
-</p>
+**Backend & Database**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" />
 
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express" />
-  </a>
-</p>
+**Frontend & Mobile**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter" />
 
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,react,nextjs" />
-  </a>
-</p>
+**Cloud & Infra**<br/>
+<img src="https://skillicons.dev/icons?i=aws,cloudflare,vercel,nginx,docker,linux" />
 
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres" />
-  </a>
-</p>
+**Tools & Design**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,figma,illustrator" />
 
-- Cloud &amp; Infra
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel,nginx,docker" />
-  </a>
-</p>
+---
 
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,illustrator" />
-  </a>
-</p>
+## Writing
 
-<br/>
+- [I Built a Competitive Coding Platform from Scratch](https://medium.com/@jsubhra502/i-built-a-competitive-coding-platform-from-scratch-heres-how-it-works-390814f334ee): how BugRank isolates and runs untrusted code
+- [AI Autocomplete Inside PowerShell Using Gemini](https://medium.com/@jsubhra502/built-my-own-ai-autocomplete-inside-windows-powershell-using-gemini-api-and-it-actually-works-52825f3a18f2): custom TAB handlers with `PSReadLine`
+- Engineering notes at [subhr.in](https://subhr.in): Docker sandboxes, Postgres indexing, EC2 deployment
 
-<h3 align="left">📊 GitHub Stats:</h3>
+---
+
+## How I think about engineering
+
+> Multi-tenancy is a product decision first: isolation, billing surfaces, and feature flags, not just a schema trick.
+
+> Deploy is not "it works on the server once." Deploy is "I can ship again next week without fear."
+
+> Index the query, not the table.
+
+---
+
 <p align="center">
-<img src="https://github-readme-stats.shion.dev/api?username=subhrajyoti5&theme=default&hide_border=false&include_all_commits=false&count_private=true" /><br/>
-<img src="https://streak-stats.demolab.com/?user=subhrajyoti5&theme=default&hide_border=false" /><br/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=subhrajyoti5&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.shion.dev/api?username=subhrajyoti5&show_icons=true&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=subhrajyoti5&hide_border=true&layout=compact&count_private=true" height="165" />
 </p>
 
-<h3 align="left">🔝 Top Contributed Repo</h3>
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=subhrajyoti5&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
-<br>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I like talking shop</b> — if you're building something too, say <b>hi, happy to compare notes!</b> :)</em>
-
-<br>
-<p align="right"> Created with 🧡 by <a href="https://subhr.in">Subhrajyoti Sahoo</a></p>
+<p align="center"><i>If you're building something too, say hi. Happy to compare notes.</i></p>
