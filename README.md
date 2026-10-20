@@ -14,9 +14,9 @@ CS undergrad (Data Science) at KIIT · C / C++ · Node.js · PostgreSQL · Flutt
 
 ## About
 
-I build real software and put it in front of real users. **Shixa**, a multi-tenant coaching-management SaaS, is live in production with paying customers. I'm into backend engineering, systems programming, and product design, and I document what I learn at [subhr.in](https://subhr.in).
+I build real software and put it in front of real users. I took **Shixa**, a multi-tenant coaching-management SaaS, to production and ran it with real institutes. I'm into backend engineering, systems programming, and product design, and I document what I learn at [subhr.in](https://subhr.in).
 
-- 🔭 **Building now:** Shixa, Murmur, and the [subhr.in](https://subhr.in) portfolio
+- 🔭 **Building now:** [Murmur](https://murmurr.subhr.in) and the [subhr.in](https://subhr.in) portfolio
 - 🌱 **Sharpening:** backend engineering, system design, DSA
 - 🎯 **Open to:** 2027 Software Engineering / Backend internships and production collaborations
 - 💬 **Ask me about:** C, C++, Node.js, PostgreSQL, Docker sandboxing, Flutter
@@ -27,11 +27,11 @@ I build real software and put it in front of real users. **Shixa**, a multi-tena
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Shixa](https://play.google.com/store/apps/details?id=com.shixa.coaching&hl=en_IN)** | Multi-tenant SaaS for coaching institutes. 3-tier PostgreSQL isolation, RBAC with feature flags, per-institute asset isolation on R2. Live in production. | React, Node.js, PostgreSQL, AWS EC2, Cloudflare R2 |
+| **[Murmur](https://murmurr.subhr.in)** | Voice-first Android app: hold, speak, release. Sub-200ms capture, private R2 audio with signed URLs, semantic search over memos. | Flutter, Riverpod, Node.js, Prisma, PostgreSQL, OpenAI |
+| **[Shixa](https://play.google.com/store/apps/details?id=com.shixa.coaching&hl=en_IN)** | Multi-tenant SaaS for coaching institutes, shipped to production (no longer operating). 3-tier PostgreSQL isolation, RBAC with feature flags, per-institute asset isolation on R2. | React, Node.js, PostgreSQL, AWS EC2, Cloudflare R2 |
 | **[BugRank](https://www.bugrank.in)** | Competitive debugging platform. Untrusted code runs in Docker as an unprivileged user, with a 5s CPU limit and 256 MB memory cap. Gemini gives hints without leaking solutions. | React, TypeScript, Express, PostgreSQL, Docker, Nginx |
 | **[Posta](https://posta.subhr.in)** | Private `@subhr.in` mail system. Pure C server with HTTP API and raw SMTP ingestion, RS256 JWT verification in C, async retry queue. | C, Next.js, PostgreSQL, Clerk, Nginx |
 | **[CZP](https://github.com/subhrajyoti5/zip)** | DEFLATE-style compressor and archiver from scratch. Custom bitstream, LZ77 (32 KB window), canonical Huffman (15-bit max), `.czp` format with CRC32. | C++17 |
-| **Murmur** | Voice-first Android app: hold, speak, release. Sub-200ms capture, private R2 audio with signed URLs, semantic search over memos. | Flutter, Riverpod, Node.js, Prisma, PostgreSQL, OpenAI |
 | **[Optima](https://github.com/subhrajyoti5)** | Offline-first task engine that ranks tasks by urgency and energy level. Hive locally, syncs to Supabase on reconnect. | Flutter, Dart, Hive, Supabase |
 | **[SpeakRandom](https://speakrandom.subhr.in)** | One-minute impromptu speaking trainer. Local-only progress, no accounts. | Next.js, TypeScript, Tailwind |
 | **[ACWGS](https://acwgs.subhr.in)** | Governance simulator modeling voting weight by verified contribution. | React, TypeScript |
